@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkromartiny_github_io=self.webpackChunkromartiny_github_io||[]).push([[822],{1822:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var r=n(7294),u=n.p+"assets/docs/cv.pdf",c=function(){return r.createElement("div",null,r.createElement("iframe",{title:"CV",src:u,className:"w-full h-screen border-none"}))}}}]);
