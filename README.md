@@ -2,10 +2,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://romartiny.dev">
-    <img src="assets/images/8f2e3b794d1c0a9e.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">Romartiny Portfolio</h3>
 
   <p align="center">
