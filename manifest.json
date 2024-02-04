@@ -1,5 +1,5 @@
 {
-  "short_name": "Web portfolio - romartiny.dev",
+  "short_name": "Romartiny.dev",
   "name": "Romartiny Portfolio",
   "icons": [
     {
@@ -8,25 +8,25 @@
       "type": "image/x-icon"
     },
     {
-      "src": "./../images/logo-small.png",
+      "src": "./assets/images/2d9e1a6c4f7b8d0.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any"
     },
     {
-      "src": "./../images/logo-huge.png",
+      "src": "./assets/images/6b8c2f4d7a3e1c9.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any"
     },
     {
-      "src": "./../images/logo-small.png",
+      "src": "./assets/images/2d9e1a6c4f7b8d0.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "maskable"
     },
     {
-      "src": "./../images/logo-huge.png",
+      "src": "./assets/images/6b8c2f4d7a3e1c9.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
@@ -34,6 +34,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#0f172a",
-  "background_color": "#0f172a"
+  "theme_color": "#091122",
+  "background_color": "#091122"
 }

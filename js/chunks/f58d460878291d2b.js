@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkromartiny_dev=self.webpackChunkromartiny_dev||[]).push([[822],{1822:function(e,r,n){n.r(r),n.d(r,{default:function(){return s}});var t=n(7294),a=n.p+"assets/docs/f52bf380da249b95.pdf",s=function(){return t.createElement("iframe",{title:"CV",src:null!=a?a:void 0,className:"relative w-full h-screen border-none rounded-md"})}}}]);

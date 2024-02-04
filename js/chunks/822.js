@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkromartiny_dev=self.webpackChunkromartiny_dev||[]).push([[822],{1822:function(e,n,r){r.r(n),r.d(n,{default:function(){return s}});var t=r(7294),c=r.p+"assets/docs/cv.pdf",s=function(){return t.createElement("div",null,t.createElement("iframe",{title:"CV",src:c,className:"w-full h-screen border-none"}))}}}]);
