@@ -11,8 +11,6 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://romartiny.dev)
-
 Welcome to the repository for the Romartiny.dev portfolio site! This project showcases my skills and projects in a sleek and interactive manner. Built using React JS, the site features a modern design with dynamic animations, providing visitors with a visually engaging experience.
 
 #### Key Features:
@@ -85,8 +83,6 @@ The main certifications that have been obtained and validated through these plat
 
 Link to this repository.
 
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: assets/images/screenshots/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
